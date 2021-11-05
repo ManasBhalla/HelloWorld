@@ -6,7 +6,7 @@ public class HelloWorld_Proper{
 
         Choice();
 
-        System.out.println("New push")
+        System.out.println("New push");
 
     }
     static void RandomNum(){
